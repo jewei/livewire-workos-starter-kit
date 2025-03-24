@@ -1,11 +1,13 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/livewire-starter-kit",
+    "name": "jewei/livewire-workos-starter-kit",
     "type": "project",
-    "description": "The official Laravel starter kit for Livewire.",
+    "description": "The Opinionated Laravel Livewire + WorkOS Starter Kit.",
     "keywords": [
         "laravel",
-        "framework"
+        "livewire",
+        "workos",
+        "starter-kit"
     ],
     "license": "MIT",
     "require": {
